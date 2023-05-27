@@ -7,7 +7,6 @@ Goodbuy world!
 **Полужирный.**  
 
 
-bebra
 
 
 * add element 1 
