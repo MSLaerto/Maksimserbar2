@@ -8,4 +8,4 @@
 
 **git commit -m "message"** - сохранить текущую версию с сообщение 
 
-**git commit -am "message"** - git add + git commit 
+**git commit -am "message"** - git add + git commit (Работает только после опервого ручного git add )
