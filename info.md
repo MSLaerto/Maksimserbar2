@@ -31,3 +31,8 @@ IPHONE better than SAMSUNG
 ВЫДЕЛЯЙТЕ ПАМЯТЬ ПРАВИЛЬНО !!!: malloc(rand())!!!
 
 !!!
+
+
+
+
+**git log --graph**- визуализация графа git
