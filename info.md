@@ -19,3 +19,8 @@
 
 {{ какие то изменения в ветке b1 }}
  I LOVE CONDENSED MILK - TEST FOR b2
+
+
+
+
+SAMSUNG better than IPHONE 
