@@ -28,3 +28,6 @@ SAMSUNG better than IPHONE
 
 
 IPHONE better than SAMSUNG
+ВЫДЕЛЯЙТЕ ПАМЯТЬ ПРАВИЛЬНО !!!: malloc(rand())!!!
+
+!!!
