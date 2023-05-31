@@ -24,3 +24,7 @@
 
 
 SAMSUNG better than IPHONE 
+ветка два : 🤡🤡
+
+
+IPHONE better than SAMSUNG
